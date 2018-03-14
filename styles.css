@@ -1,0 +1,32 @@
+body{
+    background: linear-gradient(to top, #ccffff 0%, #ffffff 100%); 
+    background-repeat: no-repeat;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li{
+    border: 1px solid;
+    padding: 10px;
+    width: 300px;
+    margin: 25px;
+    width: 95%;
+    height: 20%;
+    float: left;
+    background-color: #fff;
+    box-shadow: .5px .5px 2px #504e4e;
+}
+
+li:hover{
+    box-shadow: 0 2px 20px 0 rgba(0,0,0,.26);    
+    transition: ease .70s;
+}
+
+#main-title{
+    background: linear-gradient(to right, #00ccff 0%, #0099ff 100%);
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color:#ebeef4;    
+}
