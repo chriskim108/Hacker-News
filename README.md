@@ -20,3 +20,6 @@ Inform users to about what is going on currently in the tech world
 
 ## Build Status
 Complete
+
+## Preview
+[Click Here](https://chriskim108.github.io/Hacker-News/)
